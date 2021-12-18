@@ -1,0 +1,21 @@
+
+  
+
+body{
+  background-color: #d8d4d4;
+}
+  
+ 
+  input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.css-1b34haf-MuiDataGrid-footerContainer {
+  background-color: white;
+}
+
+
+
+
